@@ -1,7 +1,7 @@
-call plug#begin('~/.vim/plugged')
-Plug 'junegunn/seoul256.vim'
+"call plug#begin('~/.vim/plugged')
+"Plug 'junegunn/seoul256.vim'
 " Plug 'https://github.com/kbarret/mediummode.git'
-call plug#end()
+"call plug#end()
 " Make Vim more useful
 set nocompatible
 set smartindent
