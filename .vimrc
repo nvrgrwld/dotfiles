@@ -8,7 +8,7 @@ set smartindent
 set autoindent
 " Use the Solarized Dark theme
 set background=dark
-colorscheme alduin 
+"colorscheme alduin 
 let g:solarized_termtrans=1
 " Ctrl  S
 nmap <c-s> :w<CR>
@@ -34,8 +34,8 @@ let mapleader=";"
 set binary
 set noeol
 " Centralize backups, swapfiles and undo history
-set backupdir=~/.vim/backups
-set directory=~/.vim/swaps
+"set backupdir=~/.vim/backups
+"set directory=~/.vim/swaps
 if exists("&undodir")
 	set undodir=~/.vim/undo
 endif
